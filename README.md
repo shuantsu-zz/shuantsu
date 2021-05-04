@@ -33,4 +33,4 @@ You found my GitHub page. That was a triumph! Congratulations.
 
 ------------
 
-Take a look at some of my creations that I'm most proud of below:
+Take a look at some of my creations that I'm most proud of below.
