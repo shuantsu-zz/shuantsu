@@ -2,7 +2,7 @@
 
 You found my GitHub page. That was a triumph. Congratulations.
 
-## But wait a minute! Who really I am?
+## But wait a minute! Who really am I?
 
 I'm a human and I use programming skills to develop sofware for other humans.
 
