@@ -2,7 +2,7 @@
 
 # Oh, hi.
 
-I'm a human and I use programming skills to develop sofware for other humans.
+I'm a human and develop sofware for other humans.
 
 ------------
 
