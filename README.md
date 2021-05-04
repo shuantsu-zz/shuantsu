@@ -1,6 +1,6 @@
 # Oh, hi.
 
-You found my GitHub page. That was a triumph. Congratulations.
+You found my GitHub page. That was a triumph! Congratulations.
 
 ## But wait a minute! How would I describe me in a short sentence?
 
