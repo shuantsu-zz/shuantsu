@@ -35,8 +35,8 @@ You found my GitHub page. That was a triumph! Congratulations.
 
 Links
 
-[My website](https://shuantsu.github.io/)
-[My linkedin](https://www.linkedin.com/in/filipe-teixeira-4a41b4a8/)
+- [My website](https://shuantsu.github.io/)
+- [My linkedin](https://www.linkedin.com/in/filipe-teixeira-4a41b4a8/)
 
 ------------
 
