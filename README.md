@@ -12,7 +12,7 @@ You found my GitHub page. That was a triumph! Congratulations.
 
 ------------
 
-### Stuff I use/used:
+## Stuff I use/used:
 
 **Technologies**
 
