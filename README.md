@@ -1,3 +1,5 @@
+<img src="https://raw.githubusercontent.com/dwyl/repo-badges/d5823833e8533ac7f61560bcdd20519832e1d500/svg/job%20satisfaction-100%25-brightgreen-FLAT.svg" />
+
 # Oh, hi.
 
 You found my GitHub page. That was a triumph! Congratulations.
