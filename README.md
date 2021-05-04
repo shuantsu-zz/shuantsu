@@ -4,7 +4,7 @@ You found my GitHub page. That was a triumph. Congratulations.
 
 ## But wait a minute! How would I describe me in a short sentence?
 
-**TL;DR:** I'm a hooman and I use programming skills to develop sofware for other hoomans.
+**TL;DR:** I'm a human and I use programming skills to develop sofware for other humans.
 
 ## Stuff I'm interested in:
 
