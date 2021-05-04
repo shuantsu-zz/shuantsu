@@ -1,3 +1,5 @@
+<img src="https://raw.githubusercontent.com/dwyl/repo-badges/d5823833e8533ac7f61560bcdd20519832e1d500/svg/build-passing.svg" /> <img src="https://raw.githubusercontent.com/ellerbrock/open-source-badges/de355894684dfadcffba0250ee95e9f7a0d9bb97/badges/open-source-v3/open-source.svg" />
+
 # Oh, hi.
 
 You found my GitHub page. That was a triumph! Congratulations.
