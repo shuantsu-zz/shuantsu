@@ -6,6 +6,15 @@ You found my GitHub page. That was a triumph. Congratulations.
 
 I'm a human and I use programming skills to develop sofware for other humans.
 
+## Stuff I'm interested in:
+
+- Linguistics
+- Puzzles
+- Juggling
+- Games
+- TV/Movies
+- Music
+
 ------------
 
 ### Stuff I use/used:
