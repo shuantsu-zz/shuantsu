@@ -6,7 +6,7 @@ I'm a human and develop sofware for other humans.
 
 ------------
 
-## Stuff I use/used:
+## Stuff I used at certain point of space/time continuum:
 
 **Technologies**
 
