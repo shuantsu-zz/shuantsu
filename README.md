@@ -20,7 +20,7 @@ I'm a human and develop sofware for other humans.
 
 ## Stuff I'm interested in:
 
-- Linguistics
+- Language learning
 - Puzzles
 - Juggling
 - Games
