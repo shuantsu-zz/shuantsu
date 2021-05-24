@@ -31,7 +31,7 @@ I'm a human and develop sofware for other humans.
 
 ### Links
 
-- [My website](https://shuantsu.github.io/)
+- [My website](https://filipeteixeira.com.br)
 - [My linkedin](https://www.linkedin.com/in/filipe-teixeira-4a41b4a8/)
 - [My gists](https://gist.github.com/shuantsu)
 
